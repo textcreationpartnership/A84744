@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four great victories: obtained by Major Generall Pointz, on Thursday and Munday last. 1. The taking of Boulton Castle, from Collonel Scroope; with a copie of the articles on which it was surrendered: where was taken 100. muskets, 50. pikes, 20. halberts, 2. barrels of gunpowder, good store of provisions and ammunition, and all their bag and baggage. 2. The slighting of Welbeck; of Boulsover, and of Tuckhill, three garisons in the north. 3. The taking of Worton Castle, the copie of the articles, and taken in it, 150. armes, 40. pikes, 3 barrels of gunpowder, 20. vessels of strong bier, and all the provisions and ammunition, bag, and baggage. 4. Skipton in Yorkshire, also upon surrender. Commanded to be printed, and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84744</idno>
+            <idno type="STC">Wing F1657</idno>
+            <idno type="STC">Thomason E309_7</idno>
+            <idno type="STC">ESTC R200410</idno>
+            <idno type="EEBO-CITATION">99861176</idno>
+            <idno type="PROQUEST">99861176</idno>
+            <idno type="VID">158848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158848)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E309[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four great victories: obtained by Major Generall Pointz, on Thursday and Munday last. 1. The taking of Boulton Castle, from Collonel Scroope; with a copie of the articles on which it was surrendered: where was taken 100. muskets, 50. pikes, 20. halberts, 2. barrels of gunpowder, good store of provisions and ammunition, and all their bag and baggage. 2. The slighting of Welbeck; of Boulsover, and of Tuckhill, three garisons in the north. 3. The taking of Worton Castle, the copie of the articles, and taken in it, 150. armes, 40. pikes, 3 barrels of gunpowder, 20. vessels of strong bier, and all the provisions and ammunition, bag, and baggage. 4. Skipton in Yorkshire, also upon surrender. Commanded to be printed, and published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Jane Coe.,</publisher>
+                  <pubPlace>London printed, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "No: 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158848:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>FOVR Great Victories: OBTAINED <hi>By Major Generall POJNTZ,</hi> On Thurſday and Munday laſt.</p>
+            <list>
+               <item>1. The taking of Boulton Caſtle, from Cellonel Skroope; With a Copie of the Articles on which it was ſurrendred: where was taken 100. Muskets, 50. Pikes, 20. Halberts, 2. Bar<g ref="char:EOLhyphen"/>rels of Gunpowder, good ſtore of proviſions and Ammuni<g ref="char:EOLhyphen"/>tion, and all their Bag and Baggage.</item>
+               <item>2. The ſlighting of Welbeck; of Boulſover, and of Tuck<g ref="char:EOLhyphen"/>hill, three Gariſons in the North.</item>
+               <item>3. The taking of Worton Caſtle, the Copie of the Articles, and taken in it, 150. Armes, 40. Pikes, 3 Barrels of Gunpow<g ref="char:EOLhyphen"/>der, 20. Veſſels of ſtrong Bier, and all the Proviſions and Am<g ref="char:EOLhyphen"/>munition, Bag, and Baggage.</item>
+               <item>4. Skipton in Yorkſhire, alſo upon ſurrender.</item>
+            </list>
+            <p>
+               <hi>Commanded to be Printed, and publiſhed according to Order.</hi>
+            </p>
+            <p>London Printed, by JANE COE. 1645.</p>
+            <pb facs="tcp:158848:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158848:3"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="3" facs="tcp:158848:3"/>
+            <!-- PDF PAGE 80 -->
+            <head>
+               <hi>The manner of the taking of BOULTON CASTIE:</hi> With the Copie of the Articles whereupon it was ſurrendred; by Major Generall <hi>Pointz</hi> his Forces.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Yorkſhire forces having lain before Boulton Caſtle in Yorkſhire, ſome time, and intending to ſtorm it, and play againſt it with the great Guns which were ſent thither for that purpoſe; it made the Enemy much afraid, and on the 4, of November 1645. It occa<g ref="char:EOLhyphen"/>ſioned a parley, which parley occaſion Articles to be drawn up, and the reſult was; That the ſaid Caſtle of Boulton, ſhould be ſurrendred for the uſe of the
+<pb n="4" facs="tcp:158848:4"/>
+               <!-- PDF PAGE 81 -->Parliament a coppye of which articles aſſyned by both partyes I ſhall give you verbatim; as they were agreed on betweene Collonel Laſſels and Collonel Scroope, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles">
+                        <head>A Coppy of Articles agreed upon for the Rendering of Boulton Caſtle <date>the 4. of November Anno. Dom. 1645.</date>
+                        </head>
+                        <list>
+                           <item>1. That the Governour and 4. Servants with horſes and Armes and what other Gentlemen are pleaſed to go with him, ſhall have paſſage provided them to go beyond ſea, or to New<g ref="char:EOLhyphen"/>arke with a ſafe convoy, the Governour having liberty to de<g ref="char:EOLhyphen"/>clare himſelfe within 10. dayes which he will make choyce of.</item>
+                           <item>2. That all Captains, and ſuperior Officers may march away to the Kings Gariſon at Newark, with their horſe and Arms, having a ſecure convoy, or to go to their homes at their electi<g ref="char:EOLhyphen"/>on and other Gentlemen with their horſe and ſwords, and ſuch as want horſes to have liberty to procure them, and thoſe who pleaſe to go to their own homes and remaine there under the protection of the Parliament.</item>
+                           <item>3. That all inferiour officers and ſouldiers within the Caſtle, with all their apparell which properly belongs unto them, ſhall have liberty to march to the Kings Gariſon at Newarke with their ſwords, together with the laid officers, or have paſſe to go to their dwelling places and their remaine, un<g ref="char:EOLhyphen"/>der the protection of the Parliament.</item>
+                           <item>4. That the Governours mother with her daughter may remaine in the ſaid Caſtle with a convenient number of ſer<g ref="char:EOLhyphen"/>vants untill the pleaſure of the Parliament bee ſignified there<g ref="char:EOLhyphen"/>in, and in caſe of her preſent removeall, that the ſervants may ſtay untill the like order, having a fit part of the Caſtle aſſign<g ref="char:EOLhyphen"/>ed them, and further that her ſelfe, her daughter and atten<g ref="char:EOLhyphen"/>dance
+<pb n="5" facs="tcp:158848:4"/>
+                              <!-- PDF PAGE 81 -->with what ſhe is permitted to carry forth out of the ſaid Caſtle be ſecured by the convoy ſo farr as her way lyes to<g ref="char:EOLhyphen"/>wards Newarke.</item>
+                           <item>5. That all the Armes, Ammunition, and other goods now in the Caſtle, except before mentioned ſhall be ſafely preſerved and not hid, conveyed or inbeſſelled, but delivered up with the ſaid Caſtle, for the uſe of the King and Parliament, to whom ſhall be Authoriſed, and that the writeings, and eviden<g ref="char:EOLhyphen"/>ces in the Caſtle, which concernes the Governours eſtate, may be ſecured for him in the Caſtle, or removed from thence, any time within 14. dayes at his pleaſure.</item>
+                           <item>6. That all officers and Souldiers, now priſoners in the Caſtle ſhall be ſee at liberty at the ſealing hereof, and that the Caſtle be ſurrendred unto me upon Thurſday next, being the 6. of this inſtant November, at one of the clock in the after<g ref="char:EOLhyphen"/>noone for the uſe aforeſaid.</item>
+                        </list>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Francis Laſells,</item>
+                                 <item>Iohn Scroope.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And accordingly, the ſaid Thurſday Novemb. 6. it was ſurrendred. This Boulton Caſtle was the Lord Scroops, this Collonel Scroops father, but his children being baſtards, and ſo not legitimate, he is not in a capacitie of his fathers honors. This Collonel John Scroope, is the ſonne of the aforeſaid Lord Scroope, but not legitimate as aforeſaid.</p>
+            <list>
+               <head>A Liſt of what was taken in Boulton.</head>
+               <item>100. Muskets.</item>
+               <item>50. Pikes.</item>
+               <item>20. Halberts.</item>
+               <item>2. Barrels of gunpowder.</item>
+               <item>Good ſtore of Bullet and Match, victuall and other proviſions.</item>
+               <item>Some treaſure conſiderable.</item>
+               <item>All their ammunition, &amp; baggage</item>
+            </list>
+            <div type="part">
+               <head>The Manner of the taking in of Welbeck Houſe, by Ma<g ref="char:EOLhyphen"/>jor Generall Pointz his forces.</head>
+               <p>
+                  <pb n="6" facs="tcp:158848:5"/>
+                  <!-- PDF PAGE 82 -->
+Major Generall Pointz hath treated ſeverall times with the Lord Fretchwell, about the ſurrender of Welbeck Houſe, not farre from Newark; the Enemy deſired to have Winkfield Mannor, on the edge of Derbyſhire, ſlighted by us, and that then they would ſlight Welbeck Houſe, but that was refuſed, becauſe Wingfield Mannor is the onely paſſe we have, to ſtop the Newarkers from breaking into Derbyſhire: ſo they trea<g ref="char:EOLhyphen"/>ted further, and agreed upon the ſurrender of Welbeck Houſe, for two other pettic Gariſons of ours to be ſlighted; little con<g ref="char:EOLhyphen"/>ſiderable or uſefull to us, now we have taken Boulton houſe, eſpecially if Skipton be taken in too, which is alſo upon ſur<g ref="char:EOLhyphen"/>render. But the reſult of all was to this effect.</p>
+               <list>
+                  <item>1. That Welbeek a Gariſon of the Kings, ſhould be ſligh<g ref="char:EOLhyphen"/>ted, and they march to Newark or elſewhere, and no Gariſon be any longer kept there on either ſide,</item>
+                  <item>2. That two Gariſons of ours, viz. Boulſover in the fartheſt part of Derbyſhire, and Tuckhill on the hither part of York<g ref="char:EOLhyphen"/>ſhire, be ſlighted by us, and no Gariſons kept in either of thoſe places by either party.</item>
+               </list>
+               <p>Welbeck houſe is the Earl of Newcaſtles, and ſo is Boulſo<g ref="char:EOLhyphen"/>ver. The Lord Fretchwell one of the Kings new made Lords, was made Governour thereof.</p>
+            </div>
+            <div type="part">
+               <head>The manner of the taking Worton Houſe, by Major Gen. Pointz his Forces.</head>
+               <p>Major Generall Poyntz his forces having ſat down before the enemyes Gariſon of Worton houſe upon the borders of Nottinghamſhire, a ſummons was ſeut in to the Goverrnour Sir Robert Therrill, to demand the Caſtle for the Parliament, but he denyed to ſurrender, the enemy in Newarke being much
+<pb n="7" facs="tcp:158848:5"/>
+                  <!-- PDF PAGE 82 -->diſcontent at the loſſe at Spelford, and other places, and much troubled about it, and alſo for the death of the Earle of Cheſ<g ref="char:EOLhyphen"/>terfields ſonne, who is ſince dead of his wounds, and not know<g ref="char:EOLhyphen"/>ing how to releeve them, which Sir Robert Therrell deſired, but none durſt venture to attempt, yet the Lady Therrell Sir Roberts Lady being frighted with the thought of thoſe that were killed at Spelford by ſtanding out ſo obſtinarely, ſhe ſent to Major Generall Poyntz to deſire a paſſs to go in to her huſ<g ref="char:EOLhyphen"/>band, which was granted her, our forces being more willing to reduce thoſe places then to ſhed blood if it may bee, but the meane while no opertunity was loſt, nor time neglected in the work, but all things were made ready to ſtorme; which was intended to be done on Sunday, or Munday laſt at the fartheſt.</p>
+               <p>When Sir Robert Therrill, that honeſt man if he had it, and good Bowler, ſaw that we were reſolved to ſtorm, and that he could expect no releef to come to him; he perlied, and ſo both coming to capitulation, he agreed to ſurrender the Gari<g ref="char:EOLhyphen"/>ſon of Worton houſe for the uſe of the Parliament, and accor<g ref="char:EOLhyphen"/>dingly Articles were drawne up and ſigned by both partyes, the ſubſtance wherof was thus.</p>
+               <list>
+                  <item>1, That the Governour and Officers ſhould march away with their Armes.</item>
+                  <item>2. That the ſouldiers ſhould march without Armes.</item>
+                  <item>3. That they ſhould march out the next day to Newarke.</item>
+                  <item>4. That the Caſtle with all therein ſhould be ſurrendred to the ſervice of the Parliament.</item>
+               </list>
+               <p>And accordingly on Munday the 10. of November 1645. it was ſurrendred to the Parliament; and Major Generall Poyntz was poſſeſt thereof.</p>
+               <p>This Worton houſe is an houſe of the Lord Chaworths, ſtanding on the borders of Nottinghamſhire, it was a kind of a ſubgariſon to Newarke, and of great concernment: it was ve<g ref="char:EOLhyphen"/>ry
+<pb n="8" facs="tcp:158848:6"/>
+                  <!-- PDF PAGE 83 -->uſefull to them for a guard to Newark, and alſo a conſider<g ref="char:EOLhyphen"/>able paſſe, and will be as uſefull to us to ſtreit them, and to lye cloſe to them.</p>
+               <p>It is ſaid that they in Newark are more diſcontented at the loſſe of this Gariſon, then at any they have loſt a long time, and are now in a great fear themſelves.</p>
+               <list>
+                  <head>A Liſt of what was taken in Worton Houſe, by Major Gen. <hi>Pointz</hi> his forces on <date>Mun<g ref="char:EOLhyphen"/>day Nov. 10. 1645.</date>
+                  </head>
+                  <item>150. Fire aarmes.</item>
+                  <item>40. Pikes.</item>
+                  <item>3. Barrels of Gunpowder.</item>
+                  <item>Buller &amp; Match good ſtore.</item>
+                  <item>20. great Veſſels of ſtrong Beer.</item>
+                  <item>Good ſtore of Beef and victuall.</item>
+                  <item>Many Popiſh Books, and picturs.</item>
+                  <item>All their ammunition, bag, &amp;c.</item>
+               </list>
+               <p>The Enemy had alſo quit the Gariſon of Boulton Abby, and quite left that before, which was a Gariſon they had not long erected, but left it again, and were gone into Skipton; Boulton Abby ſtood between Skipton, and Boulton.</p>
+               <p>Skipton alſo ſhould have been ſtormed, but the Enemy de<g ref="char:EOLhyphen"/>ſired a patley, and are upon capitulation; the Articles were drawn, but not fully concluded on, but they are for certain on ſurrender alſo.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
